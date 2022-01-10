@@ -39,6 +39,8 @@ dependencies:
   - hdf4=4.2.15=h10796ff_3
   - hdf5=1.12.1=nompi_h2750804_101
   - icu=69.1=h9c3ff4c_0
+  - importlib-metadata=4.8.3=py39hf3d152e_0
+  - importlib_metadata=4.8.3=hd8ed1ab_0
   - ipykernel=5.3.4=py39hb070fc8_0
   - ipython=7.26.0=py39hb070fc8_0
   - ipython_genutils=0.2.0=pyhd3eb1b0_1
@@ -129,10 +131,12 @@ dependencies:
   - tk=8.6.11=h27826a3_1
   - tornado=6.1=py39h27cfd23_0
   - traitlets=5.0.5=pyhd3eb1b0_0
+  - typing_extensions=4.0.1=pyha770c72_0
   - tzcode=2021e=h7f98852_0
   - tzdata=2021a=h52ac0ba_0
   - wcwidth=0.2.5=py_0
   - wheel=0.36.2=pyhd3eb1b0_0
+  - xarray=0.20.2=pyhd8ed1ab_0
   - xerces-c=3.2.3=h8ce2273_4
   - xorg-kbproto=1.0.7=h7f98852_1002
   - xorg-libice=1.0.10=h7f98852_0
@@ -147,6 +151,7 @@ dependencies:
   - xorg-xproto=7.0.31=h7f98852_1007
   - xz=5.2.5=h7b6447c_0
   - zeromq=4.3.4=h2531618_0
+  - zipp=3.6.0=pyhd8ed1ab_0
   - zlib=1.2.11=h36c2ea0_1013
   - zstd=1.5.0=ha95c52a_0
   - pip:
@@ -198,6 +203,7 @@ dependencies:
     - pytz==2021.1
     - pyyaml==5.4.1
     - requests==2.26.0
+    - rioxarray==0.9.0
     - scipy==1.7.1
     - shapely==1.7.1
     - sortedcontainers==2.4.0
@@ -209,4 +215,4 @@ dependencies:
     - urllib3==1.26.6
     - webdavclient3==3.14.5
     - zict==2.0.0
-prefix: /home/ouku/miniconda3/envs/l_tutorial
+
